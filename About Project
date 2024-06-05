@@ -1,0 +1,23 @@
+Project: Predictive Model for Employee Promotions at MNC (Analytics Vidhya Hackathon)
+
+Objective: Developed a predictive model to identify employees eligible for promotion, optimizing the promotion cycle and reducing delays in transitioning to new roles.
+
+Data Analysis:
+Conducted Exploratory Data Analysis (EDA) to understand the dataset and identify key features impacting promotion decisions.
+Addressed class imbalance in the target variable to ensure robust model performance.
+
+Feature Engineering:
+Created new features based on employee performance metrics, demographics, and training program outcomes.
+Assessed feature importance to enhance model accuracy.
+
+Model Development:
+Implemented and compared various machine learning models, including Logistic Regression, Random Forest, and XGBoost.
+Applied cross-validation techniques for hyperparameter tuning and to prevent overfitting.
+
+Evaluation:
+Selected the best model based on the F1 Score, the competition's evaluation metric.
+Achieved an F1 Score of 50.19%, placing in the top 10% of participants.
+
+Impact:
+Streamlined the promotion process by accurately identifying potential promotees early in the cycle.
+Reduced transition delays for promoted employees, improving organizational efficiency.
